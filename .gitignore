@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/unrealengine
 # Edit at https://www.toptal.com/developers/gitignore?templates=unrealengine
 
 ### UnrealEngine ###
+=======
+>>>>>>> 3fb08695fb80e6d247801130b34356cf462d0a6b
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -44,6 +47,10 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+<<<<<<< HEAD
+=======
+.vsconfig
+>>>>>>> 3fb08695fb80e6d247801130b34356cf462d0a6b
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -51,7 +58,11 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
+<<<<<<< HEAD
 Plugins/*/Binaries/*
+=======
+Plugins/**/Binaries/*
+>>>>>>> 3fb08695fb80e6d247801130b34356cf462d0a6b
 
 # Builds
 Build/*
@@ -72,6 +83,7 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
+<<<<<<< HEAD
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
@@ -94,3 +106,9 @@ Plugins/**/Binaries/*
 Plugins/**/Intermediate/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
+=======
+Plugins/**/Intermediate/*
+
+# Cache files for the editor to use
+DerivedDataCache/*
+>>>>>>> 3fb08695fb80e6d247801130b34356cf462d0a6b
